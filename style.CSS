@@ -1,0 +1,59 @@
+.aaa{
+z-index:999999999999;
+}
+.a{
+  width: 240px;
+}
+.aa{
+  width: 60px; 
+}
+.k{
+top: 48%;
+left: 10px;
+}
+.kk{
+  bottom: 20px;
+  left: 15px;
+}
+i,.i{
+  cursor: pointer;
+}
+.n{
+  bottom:30px;
+}
+.j{
+  top: 100%;
+  left: 30px;
+}
+.i{
+  display: none;
+}
+.vv{
+  transform: translateY(100%);
+  transition: 2s all;
+}
+.z:hover .vv{
+  transform: translateY(0);
+}
+.z{
+  cursor: pointer;
+}
+.f{
+  font-size: 60px;
+}
+.ll{
+  overflow: hidden; 
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.w{
+  width: 45%;
+}
+.hh{
+  box-shadow:3px 3px 3px gray;
+  border: none;
+  border-bottom: 1px sold white;
+}
+.w2{
+  width:100px;;
+}
